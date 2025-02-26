@@ -6,6 +6,9 @@
 .env
 ComfyUI/models
 ComfyUI/output
+.DS_Store
+ComfyUI/.DS_Store
+ComfyUI/user/.DS_Store
 
 # User-specific stuff
 .idea/**/workspace.xml

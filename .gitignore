@@ -9,6 +9,8 @@ ComfyUI/output
 .DS_Store
 ComfyUI/.DS_Store
 ComfyUI/user/.DS_Store
+ComfyUI/user/default/ComfyUI-Manager
+ComfyUI/user/default/comfy.settings.json
 
 # User-specific stuff
 .idea/**/workspace.xml

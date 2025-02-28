@@ -1,0 +1,6 @@
+Best loras in my oppinion to use
+https://civitai.com/models/1134895/2000s-analog-core?modelVersionId=1462485
+https://civitai.com/models/706978/realisticaesthetic-poses-fluxdev?modelVersionId=1050496
+https://civitai.com/models/796382/ultrarealistic-lora-project?modelVersionId=1026423
+https://civitai.com/models/1167485/hassan-skinflux
+https://civitai.com/models/654412/flux-polyhedronall-perfect-skin-perfect-hands-perfect-eyes-mf
